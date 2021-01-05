@@ -1,0 +1,10 @@
+C:\Users\Raushan\source\repos\EncryptorAndDecrptor\EncryptorAndDecrptor\bin\Debug\EncryptorAndDecrptor.exe.config
+C:\Users\Raushan\source\repos\EncryptorAndDecrptor\EncryptorAndDecrptor\bin\Debug\EncryptorAndDecrptor.exe
+C:\Users\Raushan\source\repos\EncryptorAndDecrptor\EncryptorAndDecrptor\bin\Debug\EncryptorAndDecrptor.pdb
+C:\Users\Raushan\source\repos\EncryptorAndDecrptor\EncryptorAndDecrptor\obj\Debug\EncryptorAndDecrptor.csprojAssemblyReference.cache
+C:\Users\Raushan\source\repos\EncryptorAndDecrptor\EncryptorAndDecrptor\obj\Debug\EncryptorAndDecrptor.Form1.resources
+C:\Users\Raushan\source\repos\EncryptorAndDecrptor\EncryptorAndDecrptor\obj\Debug\EncryptorAndDecrptor.Properties.Resources.resources
+C:\Users\Raushan\source\repos\EncryptorAndDecrptor\EncryptorAndDecrptor\obj\Debug\EncryptorAndDecrptor.csproj.GenerateResource.cache
+C:\Users\Raushan\source\repos\EncryptorAndDecrptor\EncryptorAndDecrptor\obj\Debug\EncryptorAndDecrptor.csproj.CoreCompileInputs.cache
+C:\Users\Raushan\source\repos\EncryptorAndDecrptor\EncryptorAndDecrptor\obj\Debug\EncryptorAndDecrptor.exe
+C:\Users\Raushan\source\repos\EncryptorAndDecrptor\EncryptorAndDecrptor\obj\Debug\EncryptorAndDecrptor.pdb
